@@ -19,9 +19,9 @@ Text Domain: Passmarked
 
 // Define a few constants for us to use
 define( 'PASSMARKED_VERSION', '0.0.1' );
-define( 'PASSMARKED__MINIMUM_WP_VERSION', '3.2' );
-define( 'PASSMARKED__PLUGIN_URL', plugin_dir_url( __FILE__ ) );
-define( 'PASSMARKED__PLUGIN_DIR', plugin_dir_path( __FILE__ ) );
+define( 'PASSMARKED_MINIMUM_WP_VERSION', '3.2' );
+define( 'PASSMARKED_PLUGIN_URL', plugin_dir_url( __FILE__ ) );
+define( 'PASSMARKED_PLUGIN_DIR', plugin_dir_path( __FILE__ ) );
 
 // service constants
 define( 'PASSMARKED_API_BASE', 'https://api.passmarked.com' )
